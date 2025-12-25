@@ -24,5 +24,5 @@ It serves as a learning hub for Java concepts, problem-solving, and coding exerc
 ## 🚀 How to Run the Code
 
 1. Clone the repository:
-   ```bash
+   bash
    git clone https://github.com/adarsh005599/Java-smesh
